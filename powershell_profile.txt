@@ -1,5 +1,0 @@
-Import-Module posh-git
-Import-Module oh-my-posh
-Import-Module PSReadLine
-Set-Theme Avit
-Set-PSReadLineOption -PredictionSource History
